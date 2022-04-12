@@ -3,4 +3,4 @@
 To use this :
 
 1. Open "main.py"
-2. Open "NITOS EZ.txt"
+2. Open "NITROS EZ.txt"
