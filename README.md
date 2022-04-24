@@ -2,5 +2,6 @@
 
 To use this :
 
-1. Open "main.py"
-2. Open "NITROS EZ.txt"
+1. Open "Install.bat"
+2. Open "main.py"
+3. Open "NITROS EZ.txt"
